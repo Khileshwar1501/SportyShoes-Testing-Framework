@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="restapiexampl">
+    <test name="restapiexampl">
+        <parameter name="url" value="https://dummy.restapiexample.com/" />
+        <classes>
+            <class name="com.pizzahut.tests.PizzaHutTest" />
+        </classes>
+    </test>
+</suite>
